@@ -3,7 +3,7 @@
   (general
     (links 56)
     (no_connects 0)
-    (area 24.079999 32.969999 108.000001 63.550001)
+    (area 24.079999 26.5 108.000001 111.500001)
     (thickness 1.6002)
     (drawings 4)
     (tracks 468)
@@ -66,7 +66,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x010fc_80000007)
+      (layerselection 0x010fc_80000001)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.150000)
@@ -89,7 +89,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory gerber))
+      (outputdirectory 40-channel-HV-switching-board-adaptor-gerber/))
   )
 
   (net 0 "")
